@@ -1,6 +1,6 @@
 {
   "name": "selectfile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Select a file using fs and inquirer.",
   "main": "selectFile.js",
   "scripts": {
